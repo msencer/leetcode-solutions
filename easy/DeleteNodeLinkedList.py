@@ -5,7 +5,7 @@ Supposed the linked list is 1 -> 2 -> 3 -> 4 and you are given the third node wi
 '''
 import sys
 sys.path.append("../")
-from data-stuctures.linkedlist.linkedlist import ListNode
+from datastuctures.linkedlist.linkedlist import ListNode
 
 class Solution(object):
         def deleteNode(self, node):
@@ -17,5 +17,5 @@ class Solution(object):
 s = Solution()
 midNode = ListNode(3)
 sampleList = ListNode(1)(ListNode(2)(midNode(ListNode(4))))
-s.deleteNode(mıdNode)
+s.deleteNode(midNode)
 assert "1,2,4" == str(sampleList)
