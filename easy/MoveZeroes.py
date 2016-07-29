@@ -11,7 +11,7 @@ class Solution(object):
     def moveZeroes(self, nums):
         l = len(nums)
         if l<2:
-            return nums
+            return
         i,j = 0,1
         while j<l:
             if not nums[i] and nums[j]:
@@ -24,7 +24,6 @@ class Solution(object):
             else:
                 i+=1
                 j+=1
-        return nums
 
 
 
