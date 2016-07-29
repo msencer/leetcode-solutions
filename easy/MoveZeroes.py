@@ -28,6 +28,12 @@ class Solution(object):
 
 
 s = Solution()
-assert [] == s.moveZeroes([])
-assert [1,1,2,4,0,0] == s.moveZeroes([1,0,1,0,2,4])
-assert [6,4,5,4,5,6,0,0,0] == s.moveZeroes([0,6,0,4,5,4,5,6,0])
+example0 = []
+example1 = [1,0,1,0,2,4]
+example2 = [0,6,0,4,5,4,5,6,0]
+s.moveZeroes(example0)
+s.moveZeroes(example1)
+s.moveZeroes(example2)
+assert [] == example0
+assert [1,1,2,4,0,0] == example1
+assert [6,4,5,4,5,6,0,0,0] == example2
