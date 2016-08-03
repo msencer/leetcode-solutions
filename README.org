@@ -5,8 +5,8 @@ I gathered all my solutions to the problems listed in [[LeetCode.com][http://lee
 
 * Problems sorted by their difficulties
 - [[easy][Easy]]
-- [[][Medium]]
-- [[][Hard]]
+- [[medium][Medium]]
+- [[hard][Hard]]
 
 * Problem List
 ** [[Easy][Easy]]
