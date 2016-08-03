@@ -11,6 +11,6 @@ I gathered all my solutions to the problems listed in [[LeetCode.com][http://lee
 * Problem List
 ** [[Easy][Easy]]
 | Title                              | Solution              | Notes                |
-|[[Delete Node in a Linked List][https://leetcode.com/problems/delete-node-in-a-linked-list/] | [[Python][/easy/python/DeleteNodeLinkedList.py]] |   |
+|[[https://leetcode.com/problems/delete-node-in-a-linked-list/][Delete Node in a Linked List]] | [[/easy/python/DeleteNodeLinkedList.py][Python]] |   |
 
 
