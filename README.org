@@ -1,5 +1,5 @@
 * LeetCode Solutions
-[[https://img.shields.io/badge/language-Python-blue.svg][https://img.shields.io/badge/language-Python-blue.svg]]
+[[https://img.shields.io/badge/language-Python-blue.svg][https://img.shields.io/badge/language-Python-blue.svg]] [[https://img.shields.io/badge/language-C%2B%2B-red.svg][https://img.shields.io/badge/language-C%2B%2B-red.svg]]
 
 I gathered all my solutions to the problems listed in [[http://leetcode.com][LeetCode.com]]. If you think you have a better solution to offer or improvement suggestions, please issue a pull request. Implementations in other programming languages are welcome too!!
 
