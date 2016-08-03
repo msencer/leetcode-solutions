@@ -2,7 +2,7 @@
 Given a linked list, determine if it has a cycle in it.
 '''
 import sys
-sys.path.append("../datastuctures")
+sys.path.append("../../datastuctures")
 from linkedlist.linkedlist import ListNode
 def checkCycle(head):
     '''
