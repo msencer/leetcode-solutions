@@ -4,8 +4,8 @@ Write a function to delete a node (except the tail) in a singly linked list, giv
 Supposed the linked list is 1 -> 2 -> 3 -> 4 and you are given the third node with value 3, the linked list should become 1 -> 2 -> 4 after calling your function.
 '''
 import sys
-sys.path.append("../")
-from datastuctures.linkedlist.linkedlist import ListNode
+sys.path.append("../../datastuctures")
+from linkedlist.linkedlist import ListNode
 
 class Solution(object):
         def deleteNode(self, node):
