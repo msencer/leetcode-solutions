@@ -14,7 +14,7 @@ I gathered all my solutions to the problems listed in [[http://leetcode.com][Lee
 |[[https://leetcode.com/problems/delete-node-in-a-linked-list/][Delete Node in a Linked List]] | [[/easy/python/DeleteNodeLinkedList.py][Python]] |   |
 |[[https://leetcode.com/problems/linked-list-cycle/][Linked List Cycle]] | [[/easy/python/LinkedListCycle.py][Python]]|Fast/Slow runner approach |
 |[[https://leetcode.com/problems/majority-element/][Majority Element]] | [[/easy/python/MajorityElement.py][Python]] | |
-|[[https://leetcode.com/problems/move-zeroes/][Move Zeros]] | [[/easy/python/MoveZeroes.py][Python]] |Using two pointers|
+|[[https://leetcode.com/problems/move-zeroes/][Move Zeros]] | [[/easy/python/MoveZeroes.py][Python]]   [[/easy/cpp/MoveZeroes.cpp][C++]] |Using two pointers|
 |[[https://leetcode.com/problems/sum-of-two-integers/][Sum two integers]] | [[/easy/python/SumBinary.py][Python]]    [[/easy/cpp/SumBinary.cpp][C++]] | |
 |[[https://leetcode.com/problems/two-sum/][Two Sum]] | [[/easy/python/TwoSum.py][Python]] | |
 |[[https://leetcode.com/problems/valid-anagram/][Valid Anagram]] | [[/easy/python/ValidAnagram.py][Python]] | |
