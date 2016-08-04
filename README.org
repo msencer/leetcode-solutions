@@ -19,3 +19,4 @@ I gathered all my solutions to the problems listed in [[http://leetcode.com][Lee
 |[[https://leetcode.com/problems/two-sum/][Two Sum]] | [[/easy/python/TwoSum.py][Python]] | |
 |[[https://leetcode.com/problems/valid-anagram/][Valid Anagram]] | [[/easy/python/ValidAnagram.py][Python]] | |
 |[[https://leetcode.com/problems/merge-two-sorted-lists/][Merge two sorted linked lists]] | [[/easy/python/MergeTwoSorted.py][Python]] | |
+|[[https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/][Lowest Common Ancestor of a BST]] | [[/easy/python/LCABinaryTree.py][Python]] | |
