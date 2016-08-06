@@ -12,7 +12,7 @@ I gathered all my solutions to the problems listed in [[http://leetcode.com][Lee
 ** [[Easy][Easy]]
 | Title                              | Solution              | Notes                |
 |[[https://leetcode.com/problems/delete-node-in-a-linked-list/][Delete Node in a Linked List]] | [[/easy/python/DeleteNodeLinkedList.py][Python]] |   |
-|[[https://leetcode.com/problems/linked-list-cycle/][Linked List Cycle]] | [[/easy/python/LinkedListCycle.py][Python]]|Fast/Slow runner approach |
+|[[https://leetcode.com/problems/linked-list-cycle/][Linked List Cycle]] | [[/easy/python/LinkedListCycle.py][Python]]	[[/easy/cpp/LinkedListCycle.cpp][C++] |Fast/Slow runner approach |
 |[[https://leetcode.com/problems/majority-element/][Majority Element]] | [[/easy/python/MajorityElement.py][Python]] | |
 |[[https://leetcode.com/problems/move-zeroes/][Move Zeros]] | [[/easy/python/MoveZeroes.py][Python]]   [[/easy/cpp/MoveZeroes.cpp][C++]] |Using two pointers|
 |[[https://leetcode.com/problems/sum-of-two-integers/][Sum two integers]] | [[/easy/python/SumBinary.py][Python]]    [[/easy/cpp/SumBinary.cpp][C++]] | |
@@ -22,4 +22,4 @@ I gathered all my solutions to the problems listed in [[http://leetcode.com][Lee
 |[[https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/][Lowest Common Ancestor of a BST]] | [[/easy/python/LCABinaryTree.py][Python]] | |
 |[[https://leetcode.com/problems/ugly-number/][Ugly Number]] | [[/easy/python/UglyNumber.py][Python]] | |
 |[[https://leetcode.com/problems/climbing-stairs/][Climbing Stairs]] | [[/easy/python/ClimbingStairs.py][Python]] | Dynamic programming example |
-|[[https://leetcode.com/problems/best-time-to-buy-and-sell-stock/][Best Time to Buy and Sell Stock]] | [[/easy/python/MaxProfit.py][Python]] |  |
+|[[https://leetcode.com/problems/best-time-to-buy-and-sell-stock/][Best Time to Buy and Sell Stock]] | [[/easy/python/MaxProfit.py][Python]]	[[/easy/cpp/MaxProfit.cpp][C++]] |  |
