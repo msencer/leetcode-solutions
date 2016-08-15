@@ -23,3 +23,4 @@ I gathered all my solutions to the problems listed in [[http://leetcode.com][Lee
 |[[https://leetcode.com/problems/ugly-number/][Ugly Number]] | [[/easy/python/UglyNumber.py][Python]] | |
 |[[https://leetcode.com/problems/climbing-stairs/][Climbing Stairs]] | [[/easy/python/ClimbingStairs.py][Python]] | Dynamic programming example |
 |[[https://leetcode.com/problems/best-time-to-buy-and-sell-stock/][Best Time to Buy and Sell Stock]] | [[/easy/python/MaxProfit.py][Python]]	[[/easy/cpp/MaxProfit.cpp][C++]] |  |
+|[[https://leetcode.com/problems/implement-queue-using-stacks/][Implement Queue using Stacks]] | [[/easy/python/QueueUsingStacks.py][Python]] |  |
