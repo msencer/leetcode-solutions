@@ -58,3 +58,15 @@ I gathered all my solutions to the problems listed in [[http://leetcode.com][Lee
 |[[https://leetcode.com/problems/reverse-bits/][Reverse Bits]] | [[/easy/python/ReverseBits.py][Python]] | |
 |[[https://leetcode.com/problems/reverse-integer/][Reverse Integer]] | [[/easy/python/ReverseInteger.py][Python]] | |
 |[[https://leetcode.com/problems/string-to-integer-atoi/][String to Integer (atoi)]] | [[/easy/python/atoi.py][Python]] | |
+
+** [[medium][Medium]]
+| Title                              | Solution              | Notes                |
+|[[https://leetcode.com/problems/counting-bits/][Counting Bits]] | [[/medium/python/CountingBits.py][Python]] | O(n) solution |
+|[[https://leetcode.com/problems/shuffle-an-array/][Shuffle an array]] | [[/medium/python/ShuffleArray.py][Python]] | |
+|[[https://leetcode.com/problems/maximum-subarray/][Maximum Subarray]] | [[/medium/python/MaxSubarray.py][Python]] | |
+|[[https://leetcode.com/problems/bitwise-and-of-numbers-range/][Bitwise AND of Numbers Range]] | [[/medium/python/BitwiseNumberRange.py][Python]] | |
+|[[https://leetcode.com/problems/simplify-path/][Simplify Path]] | [[/medium/python/SimplifyPath.py][Python]] | |
+
+** [[hard][Hard]]
+| Title                              | Solution              | Notes                |
+|[[https://leetcode.com/problems/valid-number/][Valid Number]] | [[/hard/python/ValidNumber.py][Python]] | FA implementation |
