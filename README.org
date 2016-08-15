@@ -25,3 +25,4 @@ I gathered all my solutions to the problems listed in [[http://leetcode.com][Lee
 |[[https://leetcode.com/problems/best-time-to-buy-and-sell-stock/][Best Time to Buy and Sell Stock]] | [[/easy/python/MaxProfit.py][Python]]	[[/easy/cpp/MaxProfit.cpp][C++]] |  |
 |[[https://leetcode.com/problems/implement-queue-using-stacks/][Implement Queue using Stacks]] | [[/easy/python/QueueUsingStacks.py][Python]] |  |
 |[[https://leetcode.com/problems/remove-duplicates-from-sorted-array/][Remove Duplicates from Sorted Array]] | [[/easy/python/RemoveDuplicates.py][Python]] |  |
+|[[https://leetcode.com/problems/palindrome-number/][Palindrome Number]] | [[/easy/python/PalindromeNumber.py][Python]] |  |
