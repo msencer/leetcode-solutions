@@ -9,7 +9,7 @@ I gathered all my solutions to the problems listed in [[http://leetcode.com][Lee
 - [[hard][Hard]]
 
 * Problem List
-** [[Easy][Easy]]
+** [[easy][Easy]]
 | Title                              | Solution              | Notes                |
 |[[https://leetcode.com/problems/delete-node-in-a-linked-list/][Delete Node in a Linked List]] | [[/easy/python/DeleteNodeLinkedList.py][Python]] |   |
 |[[https://leetcode.com/problems/linked-list-cycle/][Linked List Cycle]] | [[/easy/python/LinkedListCycle.py][Python]]	[[/easy/cpp/LinkedListCycle.cpp][C++]] |Fast/Slow runner approach |
@@ -27,3 +27,4 @@ I gathered all my solutions to the problems listed in [[http://leetcode.com][Lee
 |[[https://leetcode.com/problems/remove-duplicates-from-sorted-array/][Remove Duplicates from Sorted Array]] | [[/easy/python/RemoveDuplicates.py][Python]] |  |
 |[[https://leetcode.com/problems/palindrome-number/][Palindrome Number]] | [[/easy/python/PalindromeNumber.py][Python]] |  |
 |[[https://leetcode.com/problems/valid-sudoku/][Valid Sudoku]] | [[/easy/python/ValidSudoku.py][Python]] |  |
+|[[https://leetcode.com/problems/path-sum/][Path Sum]] | [[/easy/python/PathSum.py][Python]] |  |
