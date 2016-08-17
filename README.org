@@ -29,6 +29,7 @@ I gathered all my solutions to the problems listed in [[http://leetcode.com][Lee
 |[[https://leetcode.com/problems/path-sum/][Path Sum]] | [[/easy/python/PathSum.py][Python]] |  |
 |[[https://leetcode.com/problems/add-digits/][Add Digits]] | [[/easy/python/AddDigits.py][Python]] |  |
 |[[https://leetcode.com/problems/maximum-depth-of-binary-tree/][Maximum depth of binary tree]] | [[/easy/python/MaxDepthBinaryTree.py][Python]] |  |
+|[[https://leetcode.com/problems/minimum-depth-of-binary-tree/][Minimum depth of binary tree]] | [[/easy/python/MinDepthBinaryTree.py][Python]] | Level order search is used |
 |[[https://leetcode.com/problems/invert-binary-tree/][Invert binary tree]] | [[/easy/python/InvertBinaryTree.py][Python]] | Iterative |
 |[[https://leetcode.com/problems/intersection-of-two-arrays/][Intersection of Two Arrays]] | [[/easy/python/IntersectionOfArrays.py][Python]] |  |
 |[[https://leetcode.com/problems/intersection-of-two-arrays-ii/][Intersection of Two Arrays 2]] | [[/easy/python/IntersectionOfArrays2.py][Python]] |  |
