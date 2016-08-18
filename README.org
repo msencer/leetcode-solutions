@@ -1,4 +1,4 @@
-* LeetCode Solutions [[https://img.shields.io/badge/language-Python-blue.svg][https://img.shields.io/badge/language-Python-blue.svg]] [[https://img.shields.io/badge/language-C%2B%2B-red.svg][https://img.shields.io/badge/language-C%2B%2B-red.svg]] [[https://img.shields.io/badge/progress-57%2F385-green.svg][https://img.shields.io/badge/progress-59%2F368-green.svg]]
+* LeetCode Solutions [[https://img.shields.io/badge/language-Python-blue.svg][https://img.shields.io/badge/language-Python-blue.svg]] [[https://img.shields.io/badge/language-C%2B%2B-red.svg][https://img.shields.io/badge/language-C%2B%2B-red.svg]] [[https://img.shields.io/badge/progress-57%2F385-green.svg][https://img.shields.io/badge/progress-60%2F368-green.svg]]
 
 I gathered all my solutions to the problems listed in [[http://leetcode.com][LeetCode.com]]. If you think you have a better solution to offer or improvement suggestions, please issue a pull request. Implementations in other programming languages are welcome too!!
 
@@ -59,6 +59,7 @@ I gathered all my solutions to the problems listed in [[http://leetcode.com][Lee
 |[[https://leetcode.com/problems/reverse-integer/][Reverse Integer]] | [[/easy/python/ReverseInteger.py][Python]] | |
 |[[https://leetcode.com/problems/string-to-integer-atoi/][String to Integer (atoi)]] | [[/easy/python/atoi.py][Python]] | |
 |[[https://leetcode.com/problems/guess-number-higher-or-lower/][Guess number Higher or Lower]] | [[/easy/python/GuessNumber.py][Python]] | |
+|[[https://leetcode.com/problems/binary-tree-paths/][Binary Tree Path]] | [[/easy/python/BinaryTreePath.py][Python]] | |
 
 ** [[medium][Medium]]
 | Title                              | Solution              | Notes                |
