@@ -1,4 +1,4 @@
-* LeetCode Solutions [[https://img.shields.io/badge/language-Python-blue.svg][https://img.shields.io/badge/language-Python-blue.svg]] [[https://img.shields.io/badge/language-C%2B%2B-red.svg][https://img.shields.io/badge/language-C%2B%2B-red.svg]] [[https://img.shields.io/badge/progress-57%2F385-green.svg][https://img.shields.io/badge/progress-65%2F368-green.svg]]
+* LeetCode Solutions [[https://img.shields.io/badge/language-Python-blue.svg][https://img.shields.io/badge/language-Python-blue.svg]] [[https://img.shields.io/badge/language-C%2B%2B-red.svg][https://img.shields.io/badge/language-C%2B%2B-red.svg]] [[https://img.shields.io/badge/progress-57%2F385-green.svg][https://img.shields.io/badge/progress-67%2F368-green.svg]]
 
 I gathered all my solutions to the problems listed in [[http://leetcode.com][LeetCode.com]]. If you think you have a better solution to offer or improvement suggestions, please issue a pull request. Implementations in other programming languages are welcome too!!
 
@@ -64,6 +64,8 @@ I gathered all my solutions to the problems listed in [[http://leetcode.com][Lee
 |[[https://leetcode.com/problems/rectangle-area/][Rectangle Area]] | [[/easy/python/RectangleArea.py][Python]] | |
 |[[https://leetcode.com/problems/implement-stack-using-queues/][Stack using Queues]] | [[/easy/python/StackUsingQueues.py][Python]] | |
 |[[https://leetcode.com/problems/remove-nth-node-from-end-of-list/][Remove Nth Node From End of List]] | [[/easy/python/RemoveNthNode.py][Python]] | |
+|[[https://leetcode.com/problems/first-unique-character-in-a-string/][First Unique Character in a String]] | [[/easy/python/FirstUniqueChar.py][Python]] | |
+|[[https://leetcode.com/problems/word-pattern/][Word Pattern]] | [[/easy/python/WordPattern.py][Python]] | |
 
 ** [[medium][Medium]]
 | Title                              | Solution              | Notes                |
