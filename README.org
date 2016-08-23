@@ -78,3 +78,4 @@ I gathered all my solutions to the problems listed in [[http://leetcode.com][Lee
 ** [[hard][Hard]]
 | Title                              | Solution              | Notes                |
 |[[https://leetcode.com/problems/valid-number/][Valid Number]] | [[/hard/python/ValidNumber.py][Python]] | FA implementation |
+|[[https://leetcode.com/problems/lru-cache/][LRU Cache]] | [[/hard/python/LRUCache.py][Python]] | Double linked list solution |
