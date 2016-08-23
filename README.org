@@ -24,7 +24,7 @@ I gathered all my solutions to the problems listed in [[http://leetcode.com][Lee
 |[[https://leetcode.com/problems/best-time-to-buy-and-sell-stock/][Best Time to Buy and Sell Stock]] | [[/easy/python/MaxProfit.py][Python]]	[[/easy/cpp/MaxProfit.cpp][C++]] |  |
 |[[https://leetcode.com/problems/implement-queue-using-stacks/][Implement Queue using Stacks]] | [[/easy/python/QueueUsingStacks.py][Python]] |  |
 |[[https://leetcode.com/problems/remove-duplicates-from-sorted-array/][Remove Duplicates from Sorted Array]] | [[/easy/python/RemoveDuplicates.py][Python]] |  |
-|[[https://leetcode.com/problems/palindrome-number/][Palindrome Number]] | [[/easy/python/PalindromeNumber.py][Python]] |  |
+|[[https://leetcode.com/problems/palindrome-number/][Palindrome Number]] | [[/easy/python/PalindromeNumber.py][Python]]		[[/easy/cpp/PalindromeNumber.cpp][C++]] |  |
 |[[https://leetcode.com/problems/valid-sudoku/][Valid Sudoku]] | [[/easy/python/ValidSudoku.py][Python]] |  |
 |[[https://leetcode.com/problems/path-sum/][Path Sum]] | [[/easy/python/PathSum.py][Python]] |  |
 |[[https://leetcode.com/problems/add-digits/][Add Digits]] | [[/easy/python/AddDigits.py][Python]] |  |
@@ -53,8 +53,8 @@ I gathered all my solutions to the problems listed in [[http://leetcode.com][Lee
 |[[https://leetcode.com/problems/symmetric-tree/][Symmetric Tree]] | [[/easy/python/SymmetricTree.py][Python]] |  |
 |[[https://leetcode.com/problems/balanced-binary-tree/][Balanced Binary Tree]] | [[/easy/python/BalancedTree.py][Python]] | Iterative approach  |
 |[[https://leetcode.com/problems/pascals-triangle/][Pascal's Triangle]] | [[/easy/python/PascalsTriangle.py][Python]] | |
-|[[https://leetcode.com/problems/pascals-triangle-ii/][Pascal's Triangle II]] | [[/easy/python/PascalsTriangle2.py][Python]] | |
-|[[https://leetcode.com/problems/factorial-trailing-zeroes/][Factorial Trailing Zeros]] | [[/easy/python/TrailingZeros.py][Python]] | |
+|[[https://leetcode.com/problems/pascals-triangle-ii/][Pascal's Triangle II]] | [[/easy/python/PascalsTriangle2.py][Python]]	[[/easy/cpp/PascalsTriangle2.cpp][C++]]	 | |
+|[[https://leetcode.com/problems/factorial-trailing-zeroes/][Factorial Trailing Zeros]] | [[/easy/python/TrailingZeros.py][Python]]		[[/easy/cpp/TrailingZeroes.cpp][C++]] | |
 |[[https://leetcode.com/problems/reverse-bits/][Reverse Bits]] | [[/easy/python/ReverseBits.py][Python]] | |
 |[[https://leetcode.com/problems/reverse-integer/][Reverse Integer]] | [[/easy/python/ReverseInteger.py][Python]] | |
 |[[https://leetcode.com/problems/string-to-integer-atoi/][String to Integer (atoi)]] | [[/easy/python/atoi.py][Python]] | |
