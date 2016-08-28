@@ -66,6 +66,7 @@ I gathered all my solutions to the problems listed in [[http://leetcode.com][Lee
 |[[https://leetcode.com/problems/remove-nth-node-from-end-of-list/][Remove Nth Node From End of List]] | [[/easy/python/RemoveNthNode.py][Python]] | |
 |[[https://leetcode.com/problems/first-unique-character-in-a-string/][First Unique Character in a String]] | [[/easy/python/FirstUniqueChar.py][Python]] | |
 |[[https://leetcode.com/problems/word-pattern/][Word Pattern]] | [[/easy/python/WordPattern.py][Python]] | |
+|[[https://leetcode.com/problems/implement-strstr/][Implement strStr()]] | [[/easy/python/strStr.py][Python]] | |
 
 ** [[medium][Medium]]
 | Title                              | Solution              | Notes                |
