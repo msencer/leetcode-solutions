@@ -69,6 +69,7 @@ I gathered all my solutions to the problems listed in [[http://leetcode.com][Lee
 |[[https://leetcode.com/problems/implement-strstr/][Implement strStr()]] | [[/easy/python/strStr.py][Python]] | |
 |[[https://leetcode.com/problems/min-stack/][Min Stack]] | [[/easy/python/MinStack.py][Python]] | |
 |[[https://leetcode.com/problems/merge-sorted-array/][Merge sorted array]] | [[/easy/python/MergeSortedArrays.py][Python]] | |
+|[[https://leetcode.com/problems/intersection-of-two-linked-lists/][Intersection of Two Linked Lists]] | [[/easy/python/IntersectionOfLists.py][Python]] | |
 
 ** [[medium][Medium]]
 | Title                              | Solution              | Notes                |
